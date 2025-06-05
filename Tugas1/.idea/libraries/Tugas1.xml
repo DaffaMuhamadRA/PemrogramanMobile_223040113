@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Tugas1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tugas1/out/production/Tugas1/IndexNilaiMatkul.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tugas1/out/production/Tugas1/Main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
